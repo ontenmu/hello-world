@@ -1,2 +1,6 @@
 # hello-world
-This is for learning.
+
+Hi, Pwople
+Norio is here
+I'm interested in Amazon Echo.
+I will challege developing skills of my own
